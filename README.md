@@ -17,8 +17,7 @@ Most AI assistants can only advise. computer fix runs on the owner's registered 
 
 ## Import into Grok Bot
 
-<!-- TEMPLATE_SHARE_LINK: paste the public Grok Bot template URL here once the bot has exported and the owner has confirmed the review card. -->
-_Template link pending owner confirmation._
+Copy this bot into your own Grok Bot: [computer fix template](https://x.ai/bot/r6khvfbBq-4CcGQtWdY-b)
 
 ## Key files
 
