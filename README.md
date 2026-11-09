@@ -35,6 +35,12 @@ Copy this bot into your own Grok Bot: [computer fix template](https://x.ai/bot/r
 | `examples/fictional-gaming-session.md` | Fully fictional before-and-after walkthrough |
 | `ATTRIBUTION.md` | Design influences |
 | `LICENSE` | MIT |
+| `AGENTS.md` | Short agent instructions, boundaries, definition of done |
+| `CONTRIBUTING.md` | How to propose changes safely |
+| `docs/failure-modes.md` | Failure modes and troubleshooting |
+| `evals/` | Golden-set behavioral regressions |
+| `scripts/check.py` | Secrets/PII/em-dash/link hygiene checks |
+| `scripts/github-workflow-checks.yml` | GitHub Actions workflow (copy to `.github/workflows/checks.yml` when the token has `workflow` scope) |
 
 ## Proof-of-work notes
 
@@ -45,6 +51,10 @@ This repository is a cleaned public snapshot of a working Grok Bot design:
 - Startup cleanup that survives apps re-adding themselves
 - Gaming prep that closes heavy apps and reports free RAM / GPU state
 - Fictional example only (no real PC names, extension lists, or owner metrics)
+
+## Review findings
+
+Portfolio review notes (repos and templates): [docs/review-2026-11-09.md in repo-operational-head](https://github.com/thiago-desa/repo-operational-head/blob/main/docs/review-2026-11-09.md).
 
 ## License and attribution
 
